@@ -1,0 +1,1432 @@
+,Year,Country,Export,Region
+0,1992,Algeria,0.0,North Africa
+1,1993,Algeria,0.0,North Africa
+2,1994,Algeria,0.0,North Africa
+3,1995,Algeria,0.0,North Africa
+4,1996,Algeria,0.0,North Africa
+5,1997,Algeria,0.0,North Africa
+6,1998,Algeria,0.0,North Africa
+7,1999,Algeria,0.0,North Africa
+8,2000,Algeria,0.0,North Africa
+9,2001,Algeria,0.0,North Africa
+10,2002,Algeria,0.984433116,North Africa
+11,2003,Algeria,0.487123695,North Africa
+12,2004,Algeria,0.9721240240000001,North Africa
+13,2005,Algeria,1.160934454,North Africa
+14,2006,Algeria,1.101823722,North Africa
+15,2007,Algeria,1.65250892,North Africa
+16,2008,Algeria,1.2432394690000002,North Africa
+17,2009,Algeria,1.108769026,North Africa
+18,2010,Algeria,1.1943254459999997,North Africa
+19,2011,Algeria,1.5969751349999999,North Africa
+20,2012,Algeria,1.363163393,North Africa
+21,2013,Algeria,1.848703921,North Africa
+22,2014,Algeria,2.6169932050000004,North Africa
+23,2015,Algeria,1.875734479,North Africa
+24,2016,Algeria,2.19123,North Africa
+25,2017,Algeria,1.059840617,North Africa
+26,2018,Algeria,1.261067304,North Africa
+27,1992,Angola,0.0,Middle Africa
+28,1993,Angola,0.0,Middle Africa
+29,1994,Angola,0.0,Middle Africa
+30,1995,Angola,0.0,Middle Africa
+31,1996,Angola,0.0,Middle Africa
+32,1997,Angola,0.0,Middle Africa
+33,1998,Angola,0.0,Middle Africa
+34,1999,Angola,0.0,Middle Africa
+35,2000,Angola,0.0,Middle Africa
+36,2001,Angola,0.0,Middle Africa
+37,2002,Angola,0.37245968500000004,Middle Africa
+38,2003,Angola,0.49168087800000004,Middle Africa
+39,2004,Angola,0.594193292,Middle Africa
+40,2005,Angola,0.9278799400000001,Middle Africa
+41,2006,Angola,1.550235993,Middle Africa
+42,2007,Angola,1.2801566869999998,Middle Africa
+43,2008,Angola,2.116986519,Middle Africa
+44,2009,Angola,1.4228730660000002,Middle Africa
+45,2010,Angola,1.293490947,Middle Africa
+46,2011,Angola,1.5032225490000002,Middle Africa
+47,2012,Angola,1.4905794639999999,Middle Africa
+48,2013,Angola,1.443438524,Middle Africa
+49,2014,Angola,2.0391250480000003,Middle Africa
+50,2015,Angola,1.1661616670000001,Middle Africa
+51,2016,Angola,1.25128,Middle Africa
+52,2017,Angola,0.8094448679999999,Middle Africa
+53,2018,Angola,0.5251856500000001,Middle Africa
+54,1992,Benin,0.0,West Africa
+55,1993,Benin,0.0,West Africa
+56,1994,Benin,0.0,West Africa
+57,1995,Benin,0.0,West Africa
+58,1996,Benin,0.0,West Africa
+59,1997,Benin,0.0,West Africa
+60,1998,Benin,0.0,West Africa
+61,1999,Benin,0.0,West Africa
+62,2000,Benin,0.0,West Africa
+63,2001,Benin,0.0,West Africa
+64,2002,Benin,0.035171871,West Africa
+65,2003,Benin,0.030243843,West Africa
+66,2004,Benin,0.044906926,West Africa
+67,2005,Benin,0.070820138,West Africa
+68,2006,Benin,0.115537358,West Africa
+69,2007,Benin,0.289410571,West Africa
+70,2008,Benin,0.84623281,West Africa
+71,2009,Benin,0.398336998,West Africa
+72,2010,Benin,0.46253482,West Africa
+73,2011,Benin,0.617574838,West Africa
+74,2012,Benin,0.572964557,West Africa
+75,2013,Benin,0.6053642540000002,West Africa
+76,2014,Benin,0.780951521,West Africa
+77,2015,Benin,0.631462518,West Africa
+78,2016,Benin,0.23513,West Africa
+79,2017,Benin,0.25013587000000004,West Africa
+80,2018,Benin,0.254193813,West Africa
+81,1992,Botswana,0.0,South Africa
+82,1993,Botswana,0.0,South Africa
+83,1994,Botswana,0.0,South Africa
+84,1995,Botswana,0.0,South Africa
+85,1996,Botswana,0.0,South Africa
+86,1997,Botswana,0.0,South Africa
+87,1998,Botswana,0.0,South Africa
+88,1999,Botswana,0.0,South Africa
+89,2000,Botswana,0.0,South Africa
+90,2001,Botswana,0.0,South Africa
+91,2002,Botswana,0.031700742000000004,South Africa
+92,2003,Botswana,0.025857966000000003,South Africa
+93,2004,Botswana,0.054007626,South Africa
+94,2005,Botswana,0.067330171,South Africa
+95,2006,Botswana,0.026891085,South Africa
+96,2007,Botswana,0.05385846899999999,South Africa
+97,2008,Botswana,0.062177868000000004,South Africa
+98,2009,Botswana,0.093254655,South Africa
+99,2010,Botswana,0.048496947,South Africa
+100,2011,Botswana,0.044273590999999994,South Africa
+101,2012,Botswana,0.047983957,South Africa
+102,2013,Botswana,0.082090829,South Africa
+103,2014,Botswana,0.052866145999999996,South Africa
+104,2015,Botswana,0.03904197,South Africa
+105,2016,Botswana,0.04243,South Africa
+106,2017,Botswana,0.09304527900000001,South Africa
+107,2018,Botswana,0.081908861,South Africa
+108,1992,Burkina Faso,0.0,West Africa
+109,1993,Burkina Faso,0.0,West Africa
+110,1994,Burkina Faso,0.0,West Africa
+111,1995,Burkina Faso,0.0,West Africa
+112,1996,Burkina Faso,0.0,West Africa
+113,1997,Burkina Faso,0.0,West Africa
+114,1998,Burkina Faso,0.0,West Africa
+115,1999,Burkina Faso,0.0,West Africa
+116,2000,Burkina Faso,0.0,West Africa
+117,2001,Burkina Faso,0.0,West Africa
+118,2002,Burkina Faso,0.018779746,West Africa
+119,2003,Burkina Faso,0.010954137,West Africa
+120,2004,Burkina Faso,0.02198331,West Africa
+121,2005,Burkina Faso,0.024928079000000002,West Africa
+122,2006,Burkina Faso,0.018104296000000002,West Africa
+123,2007,Burkina Faso,0.033139511999999996,West Africa
+124,2008,Burkina Faso,0.02449257,West Africa
+125,2009,Burkina Faso,0.026003754,West Africa
+126,2010,Burkina Faso,0.046587532,West Africa
+127,2011,Burkina Faso,0.03326022000000001,West Africa
+128,2012,Burkina Faso,0.047276771999999995,West Africa
+129,2013,Burkina Faso,0.077598603,West Africa
+130,2014,Burkina Faso,0.07230438800000001,West Africa
+131,2015,Burkina Faso,0.053875343000000006,West Africa
+132,2016,Burkina Faso,0.03539,West Africa
+133,2017,Burkina Faso,0.060978397,West Africa
+134,2018,Burkina Faso,0.059499908,West Africa
+135,1992,Burundi,0.0,East Africa
+136,1993,Burundi,0.0,East Africa
+137,1994,Burundi,0.0,East Africa
+138,1995,Burundi,0.0,East Africa
+139,1996,Burundi,0.0,East Africa
+140,1997,Burundi,0.0,East Africa
+141,1998,Burundi,0.0,East Africa
+142,1999,Burundi,0.0,East Africa
+143,2000,Burundi,0.0,East Africa
+144,2001,Burundi,0.0,East Africa
+145,2002,Burundi,0.0017139810000000003,East Africa
+146,2003,Burundi,0.0029660570000000002,East Africa
+147,2004,Burundi,0.017363721,East Africa
+148,2005,Burundi,0.007498808000000001,East Africa
+149,2006,Burundi,0.006523473999999999,East Africa
+150,2007,Burundi,0.006930327,East Africa
+151,2008,Burundi,0.007278372,East Africa
+152,2009,Burundi,0.008697102000000002,East Africa
+153,2010,Burundi,0.014386303,East Africa
+154,2011,Burundi,0.032788844,East Africa
+155,2012,Burundi,0.019939674,East Africa
+156,2013,Burundi,0.016711425,East Africa
+157,2014,Burundi,0.00559877,East Africa
+158,2015,Burundi,0.005650192,East Africa
+159,2016,Burundi,0.00841,East Africa
+160,2017,Burundi,0.008132760000000001,East Africa
+161,2018,Burundi,0.014547966,East Africa
+162,1992,Cote d'Ivoire,0.0,West Africa
+163,1993,Cote d'Ivoire,0.0,West Africa
+164,1994,Cote d'Ivoire,0.0,West Africa
+165,1995,Cote d'Ivoire,0.0,West Africa
+166,1996,Cote d'Ivoire,0.0,West Africa
+167,1997,Cote d'Ivoire,0.0,West Africa
+168,1998,Cote d'Ivoire,0.0,West Africa
+169,1999,Cote d'Ivoire,0.0,West Africa
+170,2000,Cote d'Ivoire,0.0,West Africa
+171,2001,Cote d'Ivoire,0.0,West Africa
+172,2002,Cote d'Ivoire,0.076160664,West Africa
+173,2003,Cote d'Ivoire,0.102797113,West Africa
+174,2004,Cote d'Ivoire,0.11792133600000002,West Africa
+175,2005,Cote d'Ivoire,0.12386063500000002,West Africa
+176,2006,Cote d'Ivoire,0.14751246899999998,West Africa
+177,2007,Cote d'Ivoire,0.16160783700000006,West Africa
+178,2008,Cote d'Ivoire,0.25410631899999997,West Africa
+179,2009,Cote d'Ivoire,0.20624235999999999,West Africa
+180,2010,Cote d'Ivoire,0.16284520700000002,West Africa
+181,2011,Cote d'Ivoire,0.131405294,West Africa
+182,2012,Cote d'Ivoire,0.188087985,West Africa
+183,2013,Cote d'Ivoire,0.16757653300000003,West Africa
+184,2014,Cote d'Ivoire,0.23907926699999998,West Africa
+185,2015,Cote d'Ivoire,0.0,West Africa
+186,2016,Cote d'Ivoire,0.29126,West Africa
+187,2017,Cote d'Ivoire,0.319964133,West Africa
+188,2018,Cote d'Ivoire,0.30943287999999997,West Africa
+189,1992,Cabo Verde,0.0,West Africa
+190,1993,Cabo Verde,0.0,West Africa
+191,1994,Cabo Verde,0.0,West Africa
+192,1995,Cabo Verde,0.0,West Africa
+193,1996,Cabo Verde,0.0,West Africa
+194,1997,Cabo Verde,0.0,West Africa
+195,1998,Cabo Verde,0.0,West Africa
+196,1999,Cabo Verde,0.0,West Africa
+197,2000,Cabo Verde,0.0,West Africa
+198,2001,Cabo Verde,0.0,West Africa
+199,2002,Cabo Verde,0.009644186999999999,West Africa
+200,2003,Cabo Verde,0.009119074000000001,West Africa
+201,2004,Cabo Verde,0.050969205000000004,West Africa
+202,2005,Cabo Verde,0.009871824999999999,West Africa
+203,2006,Cabo Verde,0.013619116,West Africa
+204,2007,Cabo Verde,0.005571563999999999,West Africa
+205,2008,Cabo Verde,0.012247224000000001,West Africa
+206,2009,Cabo Verde,0.006387428,West Africa
+207,2010,Cabo Verde,0.009975828999999999,West Africa
+208,2011,Cabo Verde,0.01146267,West Africa
+209,2012,Cabo Verde,0.0077652220000000004,West Africa
+210,2013,Cabo Verde,0.009134281,West Africa
+211,2014,Cabo Verde,0.007283602,West Africa
+212,2015,Cabo Verde,0.007321660000000001,West Africa
+213,2016,Cabo Verde,0.00869,West Africa
+214,2017,Cabo Verde,0.009146393,West Africa
+215,2018,Cabo Verde,0.008560372000000002,West Africa
+216,1992,Cameroon,0.0,Middle Africa
+217,1993,Cameroon,0.0,Middle Africa
+218,1994,Cameroon,0.0,Middle Africa
+219,1995,Cameroon,0.0,Middle Africa
+220,1996,Cameroon,0.0,Middle Africa
+221,1997,Cameroon,0.0,Middle Africa
+222,1998,Cameroon,0.0,Middle Africa
+223,1999,Cameroon,0.0,Middle Africa
+224,2000,Cameroon,0.0,Middle Africa
+225,2001,Cameroon,0.0,Middle Africa
+226,2002,Cameroon,0.15580820300000006,Middle Africa
+227,2003,Cameroon,0.090756446,Middle Africa
+228,2004,Cameroon,0.09955901800000001,Middle Africa
+229,2005,Cameroon,0.11705734599999999,Middle Africa
+230,2006,Cameroon,0.120065633,Middle Africa
+231,2007,Cameroon,0.132920223,Middle Africa
+232,2008,Cameroon,0.12504947,Middle Africa
+233,2009,Cameroon,0.153641764,Middle Africa
+234,2010,Cameroon,0.132270395,Middle Africa
+235,2011,Cameroon,0.220567654,Middle Africa
+236,2012,Cameroon,0.253043417,Middle Africa
+237,2013,Cameroon,0.33573708700000005,Middle Africa
+238,2014,Cameroon,0.301070473,Middle Africa
+239,2015,Cameroon,0.224961698,Middle Africa
+240,2016,Cameroon,0.18977000000000002,Middle Africa
+241,2017,Cameroon,0.15884578300000002,Middle Africa
+242,2018,Cameroon,0.193228289,Middle Africa
+243,1992,Central African Rep.,0.0,None
+244,1993,Central African Rep.,0.0,None
+245,1994,Central African Rep.,0.0,None
+246,1995,Central African Rep.,0.0,None
+247,1996,Central African Rep.,0.0,None
+248,1997,Central African Rep.,0.0,None
+249,1998,Central African Rep.,0.0,None
+250,1999,Central African Rep.,0.0,None
+251,2000,Central African Rep.,0.0,None
+252,2001,Central African Rep.,0.0,None
+253,2002,Central African Rep.,0.006371301,None
+254,2003,Central African Rep.,0.00742247,None
+255,2004,Central African Rep.,0.030011884999999995,None
+256,2005,Central African Rep.,0.014717003000000001,None
+257,2006,Central African Rep.,0.025088871000000002,None
+258,2007,Central African Rep.,0.019747922000000008,None
+259,2008,Central African Rep.,0.023302776,None
+260,2009,Central African Rep.,0.03148549400000001,None
+261,2010,Central African Rep.,0.010339636000000001,None
+262,2011,Central African Rep.,0.012335446000000002,None
+263,2012,Central African Rep.,0.008515839999999998,None
+264,2013,Central African Rep.,0.004103350000000001,None
+265,2014,Central African Rep.,0.032322366,None
+266,2015,Central African Rep.,0.034309874000000004,None
+267,2016,Central African Rep.,0.00942,None
+268,2017,Central African Rep.,0.011178603,None
+269,2018,Central African Rep.,0.009881566000000001,None
+270,1992,Chad,0.0,Middle Africa
+271,1993,Chad,0.0,Middle Africa
+272,1994,Chad,0.0,Middle Africa
+273,1995,Chad,0.0,Middle Africa
+274,1996,Chad,0.0,Middle Africa
+275,1997,Chad,0.0,Middle Africa
+276,1998,Chad,0.0,Middle Africa
+277,1999,Chad,0.0,Middle Africa
+278,2000,Chad,0.0,Middle Africa
+279,2001,Chad,0.0,Middle Africa
+280,2002,Chad,0.12734013,Middle Africa
+281,2003,Chad,0.064374425,Middle Africa
+282,2004,Chad,0.04042241600000002,Middle Africa
+283,2005,Chad,0.053752155,Middle Africa
+284,2006,Chad,0.060253873,Middle Africa
+285,2007,Chad,0.07110749100000001,Middle Africa
+286,2008,Chad,0.06251546,Middle Africa
+287,2009,Chad,0.062698757,Middle Africa
+288,2010,Chad,0.089670008,Middle Africa
+289,2011,Chad,0.035450336,Middle Africa
+290,2012,Chad,0.036551674,Middle Africa
+291,2013,Chad,0.041460707,Middle Africa
+292,2014,Chad,0.06649954100000001,Middle Africa
+293,2015,Chad,0.056591528,Middle Africa
+294,2016,Chad,0.03282,Middle Africa
+295,2017,Chad,0.031338485,Middle Africa
+296,2018,Chad,0.052659158,Middle Africa
+297,1992,Comoros,0.0,East Africa
+298,1993,Comoros,0.0,East Africa
+299,1994,Comoros,0.0,East Africa
+300,1995,Comoros,0.0,East Africa
+301,1996,Comoros,0.0,East Africa
+302,1997,Comoros,0.0,East Africa
+303,1998,Comoros,0.0,East Africa
+304,1999,Comoros,0.0,East Africa
+305,2000,Comoros,0.0,East Africa
+306,2001,Comoros,0.0,East Africa
+307,2002,Comoros,0.00014389100000000002,East Africa
+308,2003,Comoros,0.00056844,East Africa
+309,2004,Comoros,0.0007448130000000001,East Africa
+310,2005,Comoros,0.000295219,East Africa
+311,2006,Comoros,0.000108899,East Africa
+312,2007,Comoros,0.00036703200000000005,East Africa
+313,2008,Comoros,0.00042434499999999996,East Africa
+314,2009,Comoros,0.0019313940000000001,East Africa
+315,2010,Comoros,0.001259238,East Africa
+316,2011,Comoros,0.0010952780000000003,East Africa
+317,2012,Comoros,0.0009543729999999999,East Africa
+318,2013,Comoros,0.003491014,East Africa
+319,2014,Comoros,0.0034527940000000003,East Africa
+320,2015,Comoros,0.0015070780000000002,East Africa
+321,2016,Comoros,0.00135,East Africa
+322,2017,Comoros,0.001375097,East Africa
+323,2018,Comoros,0.002777625,East Africa
+324,1992,Congo,0.0,Middle Africa
+325,1993,Congo,0.0,Middle Africa
+326,1994,Congo,0.0,Middle Africa
+327,1995,Congo,0.0,Middle Africa
+328,1996,Congo,0.0,Middle Africa
+329,1997,Congo,0.0,Middle Africa
+330,1998,Congo,0.0,Middle Africa
+331,1999,Congo,0.0,Middle Africa
+332,2000,Congo,0.0,Middle Africa
+333,2001,Congo,0.0,Middle Africa
+334,2002,Congo,0.052370619,Middle Africa
+335,2003,Congo,0.078808079,Middle Africa
+336,2004,Congo,0.06483278299999999,Middle Africa
+337,2005,Congo,0.10377608499999999,Middle Africa
+338,2006,Congo,0.138004892,Middle Africa
+339,2007,Congo,0.140023813,Middle Africa
+340,2008,Congo,0.18460090199999998,Middle Africa
+341,2009,Congo,0.27707411000000004,Middle Africa
+342,2010,Congo,0.254428015,Middle Africa
+343,2011,Congo,0.22729300099999997,Middle Africa
+344,2012,Congo,0.237200621,Middle Africa
+345,2013,Congo,0.222397877,Middle Africa
+346,2014,Congo,0.321466589,Middle Africa
+347,2015,Congo,0.24922023199999999,Middle Africa
+348,2016,Congo,0.13088999999999998,Middle Africa
+349,2017,Congo,0.117378013,Middle Africa
+350,2018,Congo,0.100419567,Middle Africa
+351,1992,Dem. Rep. of the Congo,0.0,Middle Africa
+352,1993,Dem. Rep. of the Congo,0.0,Middle Africa
+353,1994,Dem. Rep. of the Congo,0.0,Middle Africa
+354,1995,Dem. Rep. of the Congo,0.0,Middle Africa
+355,1996,Dem. Rep. of the Congo,0.0,Middle Africa
+356,1997,Dem. Rep. of the Congo,0.0,Middle Africa
+357,1998,Dem. Rep. of the Congo,0.0,Middle Africa
+358,1999,Dem. Rep. of the Congo,0.0,Middle Africa
+359,2000,Dem. Rep. of the Congo,0.0,Middle Africa
+360,2001,Dem. Rep. of the Congo,0.0,Middle Africa
+361,2002,Dem. Rep. of the Congo,0.028126965,Middle Africa
+362,2003,Dem. Rep. of the Congo,0.030607308000000003,Middle Africa
+363,2004,Dem. Rep. of the Congo,0.066860789,Middle Africa
+364,2005,Dem. Rep. of the Congo,0.06444865,Middle Africa
+365,2006,Dem. Rep. of the Congo,0.07071905100000002,Middle Africa
+366,2007,Dem. Rep. of the Congo,0.112907113,Middle Africa
+367,2008,Dem. Rep. of the Congo,0.130260047,Middle Africa
+368,2009,Dem. Rep. of the Congo,0.07985605799999998,Middle Africa
+369,2010,Dem. Rep. of the Congo,0.09326732900000001,Middle Africa
+370,2011,Dem. Rep. of the Congo,0.16592539,Middle Africa
+371,2012,Dem. Rep. of the Congo,0.199549248,Middle Africa
+372,2013,Dem. Rep. of the Congo,0.16980631100000002,Middle Africa
+373,2014,Dem. Rep. of the Congo,0.18184883100000002,Middle Africa
+374,2015,Dem. Rep. of the Congo,0.136189374,Middle Africa
+375,2016,Dem. Rep. of the Congo,0.08275,Middle Africa
+376,2017,Dem. Rep. of the Congo,0.076260999,Middle Africa
+377,2018,Dem. Rep. of the Congo,0.078002318,Middle Africa
+378,1992,Djibouti,0.0,East Africa
+379,1993,Djibouti,0.0,East Africa
+380,1994,Djibouti,0.0,East Africa
+381,1995,Djibouti,0.0,East Africa
+382,1996,Djibouti,0.0,East Africa
+383,1997,Djibouti,0.0,East Africa
+384,1998,Djibouti,0.0,East Africa
+385,1999,Djibouti,0.0,East Africa
+386,2000,Djibouti,0.0,East Africa
+387,2001,Djibouti,0.0,East Africa
+388,2002,Djibouti,0.056024091000000005,East Africa
+389,2003,Djibouti,0.034307854,East Africa
+390,2004,Djibouti,0.043254219999999996,East Africa
+391,2005,Djibouti,0.047866959,East Africa
+392,2006,Djibouti,0.047628575,East Africa
+393,2007,Djibouti,0.058934056000000005,East Africa
+394,2008,Djibouti,0.140838808,East Africa
+395,2009,Djibouti,0.196691899,East Africa
+396,2010,Djibouti,0.12279305900000001,East Africa
+397,2011,Djibouti,0.1291755,East Africa
+398,2012,Djibouti,0.11884163999999998,East Africa
+399,2013,Djibouti,0.164483264,East Africa
+400,2014,Djibouti,0.110874793,East Africa
+401,2015,Djibouti,0.144711021,East Africa
+402,2016,Djibouti,0.13254,East Africa
+403,2017,Djibouti,0.15746786200000004,East Africa
+404,2018,Djibouti,0.112742445,East Africa
+405,1992,Egypt,0.0,North Africa
+406,1993,Egypt,0.0,North Africa
+407,1994,Egypt,0.0,North Africa
+408,1995,Egypt,0.0,North Africa
+409,1996,Egypt,0.0,North Africa
+410,1997,Egypt,0.0,North Africa
+411,1998,Egypt,0.0,North Africa
+412,1999,Egypt,0.0,North Africa
+413,2000,Egypt,0.0,North Africa
+414,2001,Egypt,0.0,North Africa
+415,2002,Egypt,2.8661547010000006,North Africa
+416,2003,Egypt,2.659373024,North Africa
+417,2004,Egypt,3.104524328,North Africa
+418,2005,Egypt,3.1689202800000005,North Africa
+419,2006,Egypt,4.103782069,North Africa
+420,2007,Egypt,5.3470832360000005,North Africa
+421,2008,Egypt,6.030833422,North Africa
+422,2009,Egypt,5.257585558,North Africa
+423,2010,Egypt,6.832542194000002,North Africa
+424,2011,Egypt,6.228228507,North Africa
+425,2012,Egypt,5.498319528999999,North Africa
+426,2013,Egypt,5.1753457869999995,North Africa
+427,2014,Egypt,6.472584576,North Africa
+428,2015,Egypt,4.752983685,North Africa
+429,2016,Egypt,3.4827,North Africa
+430,2017,Egypt,3.9918327659999995,North Africa
+431,2018,Egypt,5.050861159,North Africa
+432,1992,Equatorial Guinea,0.0,Middle Africa
+433,1993,Equatorial Guinea,0.0,Middle Africa
+434,1994,Equatorial Guinea,0.0,Middle Africa
+435,1995,Equatorial Guinea,0.0,Middle Africa
+436,1996,Equatorial Guinea,0.0,Middle Africa
+437,1997,Equatorial Guinea,0.0,Middle Africa
+438,1998,Equatorial Guinea,0.0,Middle Africa
+439,1999,Equatorial Guinea,0.0,Middle Africa
+440,2000,Equatorial Guinea,0.0,Middle Africa
+441,2001,Equatorial Guinea,0.0,Middle Africa
+442,2002,Equatorial Guinea,0.10871048799999998,Middle Africa
+443,2003,Equatorial Guinea,0.3363360830000001,Middle Africa
+444,2004,Equatorial Guinea,0.215418146,Middle Africa
+445,2005,Equatorial Guinea,0.249145436,Middle Africa
+446,2006,Equatorial Guinea,0.5514981849999999,Middle Africa
+447,2007,Equatorial Guinea,0.2363997,Middle Africa
+448,2008,Equatorial Guinea,0.184514829,Middle Africa
+449,2009,Equatorial Guinea,0.305860045,Middle Africa
+450,2010,Equatorial Guinea,0.272137422,Middle Africa
+451,2011,Equatorial Guinea,0.28539425,Middle Africa
+452,2012,Equatorial Guinea,0.233161535,Middle Africa
+453,2013,Equatorial Guinea,0.756139906,Middle Africa
+454,2014,Equatorial Guinea,0.57479479,Middle Africa
+455,2015,Equatorial Guinea,0.161964373,Middle Africa
+456,2016,Equatorial Guinea,0.27844,Middle Africa
+457,2017,Equatorial Guinea,0.11193615,Middle Africa
+458,2018,Equatorial Guinea,0.13939885200000002,Middle Africa
+459,1992,Eritrea,0.0,East Africa
+460,1993,Eritrea,0.0,East Africa
+461,1994,Eritrea,0.0,East Africa
+462,1995,Eritrea,0.0,East Africa
+463,1996,Eritrea,0.0,East Africa
+464,1997,Eritrea,0.0,East Africa
+465,1998,Eritrea,0.0,East Africa
+466,1999,Eritrea,0.0,East Africa
+467,2000,Eritrea,0.0,East Africa
+468,2001,Eritrea,0.0,East Africa
+469,2002,Eritrea,0.028786556,East Africa
+470,2003,Eritrea,0.08711073499999998,East Africa
+471,2004,Eritrea,0.054005737000000005,East Africa
+472,2005,Eritrea,0.031058711,East Africa
+473,2006,Eritrea,0.008847564,East Africa
+474,2007,Eritrea,0.006112826,East Africa
+475,2008,Eritrea,0.014872461,East Africa
+476,2009,Eritrea,0.006735077000000001,East Africa
+477,2010,Eritrea,0.0023845669999999998,East Africa
+478,2011,Eritrea,0.004308872,East Africa
+479,2012,Eritrea,0.005863859,East Africa
+480,2013,Eritrea,0.013476312,East Africa
+481,2014,Eritrea,0.005327596000000001,East Africa
+482,2015,Eritrea,0.0034975379999999997,East Africa
+483,2016,Eritrea,0.0030499999999999998,East Africa
+484,2017,Eritrea,0.005021254,East Africa
+485,2018,Eritrea,0.008190789,East Africa
+486,1992,Ethiopia,0.0,East Africa
+487,1993,Ethiopia,0.0,East Africa
+488,1994,Ethiopia,0.0,East Africa
+489,1995,Ethiopia,0.0,East Africa
+490,1996,Ethiopia,0.0,East Africa
+491,1997,Ethiopia,0.0,East Africa
+492,1998,Ethiopia,0.0,East Africa
+493,1999,Ethiopia,0.0,East Africa
+494,2000,Ethiopia,0.0,East Africa
+495,2001,Ethiopia,0.0,East Africa
+496,2002,Ethiopia,0.06050631800000001,East Africa
+497,2003,Ethiopia,0.408976636,East Africa
+498,2004,Ethiopia,0.45909082800000006,East Africa
+499,2005,Ethiopia,0.5148939830000001,East Africa
+500,2006,Ethiopia,0.13726792699999998,East Africa
+501,2007,Ethiopia,0.167635249,East Africa
+502,2008,Ethiopia,0.30158090600000004,East Africa
+503,2009,Ethiopia,0.275975303,East Africa
+504,2010,Ethiopia,0.7731598380000001,East Africa
+505,2011,Ethiopia,0.689890633,East Africa
+506,2012,Ethiopia,1.274672068,East Africa
+507,2013,Ethiopia,0.688507736,East Africa
+508,2014,Ethiopia,1.66897597,East Africa
+509,2015,Ethiopia,1.555249376,East Africa
+510,2016,Ethiopia,0.82625,East Africa
+511,2017,Ethiopia,0.877152409,East Africa
+512,2018,Ethiopia,1.308252189,East Africa
+513,1992,Fmr Sudan,0.0,None
+514,1993,Fmr Sudan,0.0,None
+515,1994,Fmr Sudan,0.0,None
+516,1995,Fmr Sudan,0.0,None
+517,1996,Fmr Sudan,0.0,None
+518,1997,Fmr Sudan,0.0,None
+519,1998,Fmr Sudan,0.0,None
+520,1999,Fmr Sudan,0.0,None
+521,2000,Fmr Sudan,0.0,None
+522,2001,Fmr Sudan,0.0,None
+523,2002,Fmr Sudan,0.010854119,None
+524,2003,Fmr Sudan,0.026141473000000002,None
+525,2004,Fmr Sudan,0.068120601,None
+526,2005,Fmr Sudan,0.103226321,None
+527,2006,Fmr Sudan,0.07692403900000001,None
+528,2007,Fmr Sudan,0.066940295,None
+529,2008,Fmr Sudan,0.14330501800000006,None
+530,2009,Fmr Sudan,0.07872570999999999,None
+531,2010,Fmr Sudan,0.115617732,None
+532,2011,Fmr Sudan,0.082056034,None
+533,2012,Fmr Sudan,0.0,None
+534,2013,Fmr Sudan,0.0,None
+535,2014,Fmr Sudan,0.0,None
+536,2015,Fmr Sudan,0.0,None
+537,2016,Fmr Sudan,0.0,None
+538,2017,Fmr Sudan,0.0,None
+539,2018,Fmr Sudan,0.0,None
+540,1992,Gabon,0.0,Middle Africa
+541,1993,Gabon,0.0,Middle Africa
+542,1994,Gabon,0.0,Middle Africa
+543,1995,Gabon,0.0,Middle Africa
+544,1996,Gabon,0.0,Middle Africa
+545,1997,Gabon,0.0,Middle Africa
+546,1998,Gabon,0.0,Middle Africa
+547,1999,Gabon,0.0,Middle Africa
+548,2000,Gabon,0.0,Middle Africa
+549,2001,Gabon,0.0,Middle Africa
+550,2002,Gabon,0.065515209,Middle Africa
+551,2003,Gabon,0.06297434000000002,Middle Africa
+552,2004,Gabon,0.09299138100000001,Middle Africa
+553,2005,Gabon,0.09843626500000001,Middle Africa
+554,2006,Gabon,0.135289657,Middle Africa
+555,2007,Gabon,0.47765644300000004,Middle Africa
+556,2008,Gabon,0.28388899300000003,Middle Africa
+557,2009,Gabon,0.170822545,Middle Africa
+558,2010,Gabon,0.24299885200000002,Middle Africa
+559,2011,Gabon,0.20515105,Middle Africa
+560,2012,Gabon,0.31904846200000003,Middle Africa
+561,2013,Gabon,0.307983525,Middle Africa
+562,2014,Gabon,0.417347429,Middle Africa
+563,2015,Gabon,0.20387244300000001,Middle Africa
+564,2016,Gabon,0.08502,Middle Africa
+565,2017,Gabon,0.08900649000000001,Middle Africa
+566,2018,Gabon,0.11300836000000002,Middle Africa
+567,1992,Gambia,0.0,West Africa
+568,1993,Gambia,0.0,West Africa
+569,1994,Gambia,0.0,West Africa
+570,1995,Gambia,0.0,West Africa
+571,1996,Gambia,0.0,West Africa
+572,1997,Gambia,0.0,West Africa
+573,1998,Gambia,0.0,West Africa
+574,1999,Gambia,0.0,West Africa
+575,2000,Gambia,0.0,West Africa
+576,2001,Gambia,0.0,West Africa
+577,2002,Gambia,0.009553128,West Africa
+578,2003,Gambia,0.02665136,West Africa
+579,2004,Gambia,0.023057741,West Africa
+580,2005,Gambia,0.030470786,West Africa
+581,2006,Gambia,0.021229805,West Africa
+582,2007,Gambia,0.020000988,West Africa
+583,2008,Gambia,0.028878320000000002,West Africa
+584,2009,Gambia,0.033650713000000006,West Africa
+585,2010,Gambia,0.029253787,West Africa
+586,2011,Gambia,0.029366112000000003,West Africa
+587,2012,Gambia,0.027458509000000002,West Africa
+588,2013,Gambia,0.034135359,West Africa
+589,2014,Gambia,0.041538614,West Africa
+590,2015,Gambia,0.037899621999999994,West Africa
+591,2016,Gambia,0.04,West Africa
+592,2017,Gambia,0.039235769,West Africa
+593,2018,Gambia,0.041287417,West Africa
+594,1992,Guinea,0.0,West Africa
+595,1993,Guinea,0.0,West Africa
+596,1994,Guinea,0.0,West Africa
+597,1995,Guinea,0.0,West Africa
+598,1996,Guinea,0.0,West Africa
+599,1997,Guinea,0.0,West Africa
+600,1998,Guinea,0.0,West Africa
+601,1999,Guinea,0.0,West Africa
+602,2000,Guinea,0.0,West Africa
+603,2001,Guinea,0.0,West Africa
+604,2002,Guinea,0.062937385,West Africa
+605,2003,Guinea,0.035787719,West Africa
+606,2004,Guinea,0.058515177,West Africa
+607,2005,Guinea,0.12504354199999998,West Africa
+608,2006,Guinea,0.064741875,West Africa
+609,2007,Guinea,0.07353974500000003,West Africa
+610,2008,Guinea,0.101802826,West Africa
+611,2009,Guinea,0.094859488,West Africa
+612,2010,Guinea,0.08506195199999998,West Africa
+613,2011,Guinea,0.25616026900000005,West Africa
+614,2012,Guinea,0.15462223699999997,West Africa
+615,2013,Guinea,0.07946298,West Africa
+616,2014,Guinea,0.06518563499999999,West Africa
+617,2015,Guinea,0.135350114,West Africa
+618,2016,Guinea,0.08419,West Africa
+619,2017,Guinea,0.10302243100000001,West Africa
+620,2018,Guinea,0.127052793,West Africa
+621,1992,Guinea-Bissau,0.0,West Africa
+622,1993,Guinea-Bissau,0.0,West Africa
+623,1994,Guinea-Bissau,0.0,West Africa
+624,1995,Guinea-Bissau,0.0,West Africa
+625,1996,Guinea-Bissau,0.0,West Africa
+626,1997,Guinea-Bissau,0.0,West Africa
+627,1998,Guinea-Bissau,0.0,West Africa
+628,1999,Guinea-Bissau,0.0,West Africa
+629,2000,Guinea-Bissau,0.0,West Africa
+630,2001,Guinea-Bissau,0.0,West Africa
+631,2002,Guinea-Bissau,0.0025585860000000003,West Africa
+632,2003,Guinea-Bissau,0.00123583,West Africa
+633,2004,Guinea-Bissau,0.0012292,West Africa
+634,2005,Guinea-Bissau,0.002100355,West Africa
+635,2006,Guinea-Bissau,0.005708642000000001,West Africa
+636,2007,Guinea-Bissau,0.006615355999999999,West Africa
+637,2008,Guinea-Bissau,0.002076775,West Africa
+638,2009,Guinea-Bissau,0.0015554850000000001,West Africa
+639,2010,Guinea-Bissau,0.0034015800000000004,West Africa
+640,2011,Guinea-Bissau,0.011838656999999999,West Africa
+641,2012,Guinea-Bissau,0.021095195999999997,West Africa
+642,2013,Guinea-Bissau,0.006643733000000001,West Africa
+643,2014,Guinea-Bissau,0.00290428,West Africa
+644,2015,Guinea-Bissau,0.00213532,West Africa
+645,2016,Guinea-Bissau,0.0035499999999999998,West Africa
+646,2017,Guinea-Bissau,0.0037516550000000004,West Africa
+647,2018,Guinea-Bissau,0.018555456,West Africa
+648,1992,Kenya,0.0,East Africa
+649,1993,Kenya,0.0,East Africa
+650,1994,Kenya,0.0,East Africa
+651,1995,Kenya,0.0,East Africa
+652,1996,Kenya,0.0,East Africa
+653,1997,Kenya,0.0,East Africa
+654,1998,Kenya,0.0,East Africa
+655,1999,Kenya,0.0,East Africa
+656,2000,Kenya,0.0,East Africa
+657,2001,Kenya,0.0,East Africa
+658,2002,Kenya,0.27141135099999997,East Africa
+659,2003,Kenya,0.196670103,East Africa
+660,2004,Kenya,0.393848613,East Africa
+661,2005,Kenya,0.632293179,East Africa
+662,2006,Kenya,0.526013766,East Africa
+663,2007,Kenya,0.584217239,East Africa
+664,2008,Kenya,0.47437408700000006,East Africa
+665,2009,Kenya,0.6543765990000001,East Africa
+666,2010,Kenya,0.375348785,East Africa
+667,2011,Kenya,0.461441784,East Africa
+668,2012,Kenya,0.568583714,East Africa
+669,2013,Kenya,0.6356888550000002,East Africa
+670,2014,Kenya,1.640898833,East Africa
+671,2015,Kenya,0.9434366570000001,East Africa
+672,2016,Kenya,0.39692000000000005,East Africa
+673,2017,Kenya,0.45445334400000004,East Africa
+674,2018,Kenya,0.365543647,East Africa
+675,1992,Lesotho,0.0,South Africa
+676,1993,Lesotho,0.0,South Africa
+677,1994,Lesotho,0.0,South Africa
+678,1995,Lesotho,0.0,South Africa
+679,1996,Lesotho,0.0,South Africa
+680,1997,Lesotho,0.0,South Africa
+681,1998,Lesotho,0.0,South Africa
+682,1999,Lesotho,0.0,South Africa
+683,2000,Lesotho,0.0,South Africa
+684,2001,Lesotho,0.0,South Africa
+685,2002,Lesotho,0.002021905,South Africa
+686,2003,Lesotho,0.005085676000000001,South Africa
+687,2004,Lesotho,0.005483683,South Africa
+688,2005,Lesotho,0.004015033000000002,South Africa
+689,2006,Lesotho,0.004028604000000001,South Africa
+690,2007,Lesotho,0.007525706,South Africa
+691,2008,Lesotho,0.0013397230000000001,South Africa
+692,2009,Lesotho,0.01663044,South Africa
+693,2010,Lesotho,0.011330245,South Africa
+694,2011,Lesotho,0.013181171,South Africa
+695,2012,Lesotho,0.016514236999999998,South Africa
+696,2013,Lesotho,0.000571144,South Africa
+697,2014,Lesotho,0.0024495650000000003,South Africa
+698,2015,Lesotho,0.000881897,South Africa
+699,2016,Lesotho,0.00284,South Africa
+700,2017,Lesotho,0.001901616,South Africa
+701,2018,Lesotho,0.002311991,South Africa
+702,1992,Liberia,0.0,West Africa
+703,1993,Liberia,0.0,West Africa
+704,1994,Liberia,0.0,West Africa
+705,1995,Liberia,0.0,West Africa
+706,1996,Liberia,0.0,West Africa
+707,1997,Liberia,0.0,West Africa
+708,1998,Liberia,0.0,West Africa
+709,1999,Liberia,0.0,West Africa
+710,2000,Liberia,0.0,West Africa
+711,2001,Liberia,0.0,West Africa
+712,2002,Liberia,0.027675611,West Africa
+713,2003,Liberia,0.033369493,West Africa
+714,2004,Liberia,0.06056411700000001,West Africa
+715,2005,Liberia,0.07504557000000002,West Africa
+716,2006,Liberia,0.067840342,West Africa
+717,2007,Liberia,0.075769497,West Africa
+718,2008,Liberia,0.156630742,West Africa
+719,2009,Liberia,0.094980163,West Africa
+720,2010,Liberia,0.191351777,West Africa
+721,2011,Liberia,0.195207824,West Africa
+722,2012,Liberia,0.241089095,West Africa
+723,2013,Liberia,0.17320734199999996,West Africa
+724,2014,Liberia,0.18443721200000002,West Africa
+725,2015,Liberia,0.135807551,West Africa
+726,2016,Liberia,0.15803,West Africa
+727,2017,Liberia,0.13834063700000002,West Africa
+728,2018,Liberia,0.19668443100000002,West Africa
+729,1992,Libya,0.0,North Africa
+730,1993,Libya,0.0,North Africa
+731,1994,Libya,0.0,North Africa
+732,1995,Libya,0.0,North Africa
+733,1996,Libya,0.0,North Africa
+734,1997,Libya,0.0,North Africa
+735,1998,Libya,0.0,North Africa
+736,1999,Libya,0.0,North Africa
+737,2000,Libya,0.0,North Africa
+738,2001,Libya,0.0,North Africa
+739,2002,Libya,0.018270411,North Africa
+740,2003,Libya,0.000225546,North Africa
+741,2004,Libya,0.039190139000000006,North Africa
+742,2005,Libya,0.083822103,North Africa
+743,2006,Libya,0.43485610599999996,North Africa
+744,2007,Libya,0.510498645,North Africa
+745,2008,Libya,0.721161662,North Africa
+746,2009,Libya,0.666056724,North Africa
+747,2010,Libya,0.6655339759999999,North Africa
+748,2011,Libya,0.307238676,North Africa
+749,2012,Libya,0.549022033,North Africa
+750,2013,Libya,0.864518039,North Africa
+751,2014,Libya,0.531855792,North Africa
+752,2015,Libya,0.24295164500000002,North Africa
+753,2016,Libya,0.19027000000000002,North Africa
+754,2017,Libya,0.134952674,North Africa
+755,2018,Libya,0.243781564,North Africa
+756,1992,Madagascar,0.0,East Africa
+757,1993,Madagascar,0.0,East Africa
+758,1994,Madagascar,0.0,East Africa
+759,1995,Madagascar,0.0,East Africa
+760,1996,Madagascar,0.0,East Africa
+761,1997,Madagascar,0.0,East Africa
+762,1998,Madagascar,0.0,East Africa
+763,1999,Madagascar,0.0,East Africa
+764,2000,Madagascar,0.0,East Africa
+765,2001,Madagascar,0.0,East Africa
+766,2002,Madagascar,0.015240018,East Africa
+767,2003,Madagascar,0.046392801,East Africa
+768,2004,Madagascar,0.035642329000000014,East Africa
+769,2005,Madagascar,0.028194237,East Africa
+770,2006,Madagascar,0.044737462,East Africa
+771,2007,Madagascar,0.031958584000000005,East Africa
+772,2008,Madagascar,0.07093850499999999,East Africa
+773,2009,Madagascar,0.165868563,East Africa
+774,2010,Madagascar,0.11599445400000001,East Africa
+775,2011,Madagascar,0.056283902000000004,East Africa
+776,2012,Madagascar,0.06427502900000001,East Africa
+777,2013,Madagascar,0.06400756899999999,East Africa
+778,2014,Madagascar,0.04680026500000001,East Africa
+779,2015,Madagascar,0.05455373100000001,East Africa
+780,2016,Madagascar,0.04197,East Africa
+781,2017,Madagascar,0.053367175,East Africa
+782,2018,Madagascar,0.11357083,East Africa
+783,1992,Malawi,0.0,East Africa
+784,1993,Malawi,0.0,East Africa
+785,1994,Malawi,0.0,East Africa
+786,1995,Malawi,0.0,East Africa
+787,1996,Malawi,0.0,East Africa
+788,1997,Malawi,0.0,East Africa
+789,1998,Malawi,0.0,East Africa
+790,1999,Malawi,0.0,East Africa
+791,2000,Malawi,0.0,East Africa
+792,2001,Malawi,0.0,East Africa
+793,2002,Malawi,0.030111737000000003,East Africa
+794,2003,Malawi,0.016502512,East Africa
+795,2004,Malawi,0.02165394400000001,East Africa
+796,2005,Malawi,0.027728620000000002,East Africa
+797,2006,Malawi,0.045738193,East Africa
+798,2007,Malawi,0.051503211,East Africa
+799,2008,Malawi,0.044943925,East Africa
+800,2009,Malawi,0.040423565,East Africa
+801,2010,Malawi,0.037001180000000015,East Africa
+802,2011,Malawi,0.056973282,East Africa
+803,2012,Malawi,0.063951198,East Africa
+804,2013,Malawi,0.054498744999999994,East Africa
+805,2014,Malawi,0.050669581000000005,East Africa
+806,2015,Malawi,0.037201602,East Africa
+807,2016,Malawi,0.04661,East Africa
+808,2017,Malawi,0.027880840000000004,East Africa
+809,2018,Malawi,0.017240448000000002,East Africa
+810,1992,Mali,0.0,West Africa
+811,1993,Mali,0.0,West Africa
+812,1994,Mali,0.0,West Africa
+813,1995,Mali,0.0,West Africa
+814,1996,Mali,0.0,West Africa
+815,1997,Mali,0.0,West Africa
+816,1998,Mali,0.0,West Africa
+817,1999,Mali,0.0,West Africa
+818,2000,Mali,0.0,West Africa
+819,2001,Mali,0.0,West Africa
+820,2002,Mali,0.011183119,West Africa
+821,2003,Mali,0.031473060000000004,West Africa
+822,2004,Mali,0.042990638,West Africa
+823,2005,Mali,0.03240252800000001,West Africa
+824,2006,Mali,0.043130545,West Africa
+825,2007,Mali,0.031901355,West Africa
+826,2008,Mali,0.030921727,West Africa
+827,2009,Mali,0.036804653,West Africa
+828,2010,Mali,0.03727432000000001,West Africa
+829,2011,Mali,0.055077612000000005,West Africa
+830,2012,Mali,0.059745089,West Africa
+831,2013,Mali,0.049893003,West Africa
+832,2014,Mali,0.038462373,West Africa
+833,2015,Mali,0.072426079,West Africa
+834,2016,Mali,0.07306,West Africa
+835,2017,Mali,0.062015549999999996,West Africa
+836,2018,Mali,0.07885143800000001,West Africa
+837,1992,Mauritania,0.0,West Africa
+838,1993,Mauritania,0.0,West Africa
+839,1994,Mauritania,0.0,West Africa
+840,1995,Mauritania,0.0,West Africa
+841,1996,Mauritania,0.0,West Africa
+842,1997,Mauritania,0.0,West Africa
+843,1998,Mauritania,0.0,West Africa
+844,1999,Mauritania,0.0,West Africa
+845,2000,Mauritania,0.0,West Africa
+846,2001,Mauritania,0.0,West Africa
+847,2002,Mauritania,0.022880701000000003,West Africa
+848,2003,Mauritania,0.034880600000000005,West Africa
+849,2004,Mauritania,0.077528132,West Africa
+850,2005,Mauritania,0.08581344,West Africa
+851,2006,Mauritania,0.090146958,West Africa
+852,2007,Mauritania,0.102657391,West Africa
+853,2008,Mauritania,0.10660383000000001,West Africa
+854,2009,Mauritania,0.056280370999999996,West Africa
+855,2010,Mauritania,0.084343006,West Africa
+856,2011,Mauritania,0.24331096600000002,West Africa
+857,2012,Mauritania,0.29159387000000003,West Africa
+858,2013,Mauritania,0.245484751,West Africa
+859,2014,Mauritania,0.149239173,West Africa
+860,2015,Mauritania,0.12628066699999999,West Africa
+861,2016,Mauritania,0.11625,West Africa
+862,2017,Mauritania,0.12777739,West Africa
+863,2018,Mauritania,0.08837884100000001,West Africa
+864,1992,Mauritius,0.0,East Africa
+865,1993,Mauritius,0.0,East Africa
+866,1994,Mauritius,0.0,East Africa
+867,1995,Mauritius,0.0,East Africa
+868,1996,Mauritius,0.0,East Africa
+869,1997,Mauritius,0.0,East Africa
+870,1998,Mauritius,0.0,East Africa
+871,1999,Mauritius,0.0,East Africa
+872,2000,Mauritius,0.0,East Africa
+873,2001,Mauritius,0.0,East Africa
+874,2002,Mauritius,0.027457156000000003,East Africa
+875,2003,Mauritius,0.03200729800000001,East Africa
+876,2004,Mauritius,0.028416318,East Africa
+877,2005,Mauritius,0.030849240000000003,East Africa
+878,2006,Mauritius,0.035607932000000016,East Africa
+879,2007,Mauritius,0.04979360100000001,East Africa
+880,2008,Mauritius,0.051293165,East Africa
+881,2009,Mauritius,0.07003110200000001,East Africa
+882,2010,Mauritius,0.040027845,East Africa
+883,2011,Mauritius,0.046369941,East Africa
+884,2012,Mauritius,0.095986858,East Africa
+885,2013,Mauritius,0.04205467,East Africa
+886,2014,Mauritius,0.03521928600000001,East Africa
+887,2015,Mauritius,0.058435311,East Africa
+888,2016,Mauritius,0.08696,East Africa
+889,2017,Mauritius,0.06142160500000001,East Africa
+890,2018,Mauritius,0.12335919399999999,East Africa
+891,1992,Morocco,0.0,North Africa
+892,1993,Morocco,0.0,North Africa
+893,1994,Morocco,0.0,North Africa
+894,1995,Morocco,0.0,North Africa
+895,1996,Morocco,0.0,North Africa
+896,1997,Morocco,0.0,North Africa
+897,1998,Morocco,0.0,North Africa
+898,1999,Morocco,0.0,North Africa
+899,2000,Morocco,0.0,North Africa
+900,2001,Morocco,0.0,North Africa
+901,2002,Morocco,0.5655087960000001,North Africa
+902,2003,Morocco,0.46488032399999996,North Africa
+903,2004,Morocco,0.52352576,North Africa
+904,2005,Morocco,0.527545876,North Africa
+905,2006,Morocco,0.875551576,North Africa
+906,2007,Morocco,1.3430107480000002,North Africa
+907,2008,Morocco,1.518769078,North Africa
+908,2009,Morocco,1.6061011410000001,North Africa
+909,2010,Morocco,1.947613644,North Africa
+910,2011,Morocco,2.823307066,North Africa
+911,2012,Morocco,2.170396557,North Africa
+912,2013,Morocco,2.483740957,North Africa
+913,2014,Morocco,2.102225551,North Africa
+914,2015,Morocco,1.625200707,North Africa
+915,2016,Morocco,1.9323800000000002,North Africa
+916,2017,Morocco,2.219661823,North Africa
+917,2018,Morocco,3.0106147460000003,North Africa
+918,1992,Mozambique,0.0,East Africa
+919,1993,Mozambique,0.0,East Africa
+920,1994,Mozambique,0.0,East Africa
+921,1995,Mozambique,0.0,East Africa
+922,1996,Mozambique,0.0,East Africa
+923,1997,Mozambique,0.0,East Africa
+924,1998,Mozambique,0.0,East Africa
+925,1999,Mozambique,0.0,East Africa
+926,2000,Mozambique,0.0,East Africa
+927,2001,Mozambique,0.0,East Africa
+928,2002,Mozambique,0.097986612,East Africa
+929,2003,Mozambique,0.062516461,East Africa
+930,2004,Mozambique,0.076439249,East Africa
+931,2005,Mozambique,0.062210488,East Africa
+932,2006,Mozambique,0.06474331600000001,East Africa
+933,2007,Mozambique,0.114949714,East Africa
+934,2008,Mozambique,0.21341761399999998,East Africa
+935,2009,Mozambique,0.18983155300000001,East Africa
+936,2010,Mozambique,0.224019682,East Africa
+937,2011,Mozambique,0.459242488,East Africa
+938,2012,Mozambique,0.351608971,East Africa
+939,2013,Mozambique,0.303016499,East Africa
+940,2014,Mozambique,0.37516357,East Africa
+941,2015,Mozambique,0.264203995,East Africa
+942,2016,Mozambique,0.14944,East Africa
+943,2017,Mozambique,0.179126068,East Africa
+944,2018,Mozambique,0.184452651,East Africa
+945,1992,Namibia,0.0,South Africa
+946,1993,Namibia,0.0,South Africa
+947,1994,Namibia,0.0,South Africa
+948,1995,Namibia,0.0,South Africa
+949,1996,Namibia,0.0,South Africa
+950,1997,Namibia,0.0,South Africa
+951,1998,Namibia,0.0,South Africa
+952,1999,Namibia,0.0,South Africa
+953,2000,Namibia,0.0,South Africa
+954,2001,Namibia,0.0,South Africa
+955,2002,Namibia,0.057776625000000005,South Africa
+956,2003,Namibia,0.027960313,South Africa
+957,2004,Namibia,0.07289771999999999,South Africa
+958,2005,Namibia,0.11369031299999999,South Africa
+959,2006,Namibia,0.126858883,South Africa
+960,2007,Namibia,0.127894393,South Africa
+961,2008,Namibia,0.28033126700000005,South Africa
+962,2009,Namibia,0.20231490400000002,South Africa
+963,2010,Namibia,0.11018458500000002,South Africa
+964,2011,Namibia,0.13656415200000002,South Africa
+965,2012,Namibia,0.184614633,South Africa
+966,2013,Namibia,0.235244409,South Africa
+967,2014,Namibia,0.342741711,South Africa
+968,2015,Namibia,0.127603603,South Africa
+969,2016,Namibia,0.21295,South Africa
+970,2017,Namibia,0.118561677,South Africa
+971,2018,Namibia,0.209608949,South Africa
+972,1992,Niger,0.0,West Africa
+973,1993,Niger,0.0,West Africa
+974,1994,Niger,0.0,West Africa
+975,1995,Niger,0.0,West Africa
+976,1996,Niger,0.0,West Africa
+977,1997,Niger,0.0,West Africa
+978,1998,Niger,0.0,West Africa
+979,1999,Niger,0.0,West Africa
+980,2000,Niger,0.0,West Africa
+981,2001,Niger,0.0,West Africa
+982,2002,Niger,0.040903721000000004,West Africa
+983,2003,Niger,0.033633604,West Africa
+984,2004,Niger,0.034646666000000007,West Africa
+985,2005,Niger,0.08118491399999998,West Africa
+986,2006,Niger,0.12916508100000001,West Africa
+987,2007,Niger,0.06930877199999999,West Africa
+988,2008,Niger,0.050007174,West Africa
+989,2009,Niger,0.058243070999999993,West Africa
+990,2010,Niger,0.048886203,West Africa
+991,2011,Niger,0.048152287,West Africa
+992,2012,Niger,0.037367471,West Africa
+993,2013,Niger,0.046091405,West Africa
+994,2014,Niger,0.058515875,West Africa
+995,2015,Niger,0.071493157,West Africa
+996,2016,Niger,0.0663,West Africa
+997,2017,Niger,0.044082049,West Africa
+998,2018,Niger,0.061726976,West Africa
+999,1992,Nigeria,0.0,West Africa
+1000,1993,Nigeria,0.0,West Africa
+1001,1994,Nigeria,0.0,West Africa
+1002,1995,Nigeria,0.0,West Africa
+1003,1996,Nigeria,0.0,West Africa
+1004,1997,Nigeria,0.0,West Africa
+1005,1998,Nigeria,0.0,West Africa
+1006,1999,Nigeria,0.0,West Africa
+1007,2000,Nigeria,0.0,West Africa
+1008,2001,Nigeria,0.0,West Africa
+1009,2002,Nigeria,1.0570456140000002,West Africa
+1010,2003,Nigeria,1.022896438,West Africa
+1011,2004,Nigeria,1.5522330130000002,West Africa
+1012,2005,Nigeria,1.6149718050000001,West Africa
+1013,2006,Nigeria,2.23079801,West Africa
+1014,2007,Nigeria,2.786672986,West Africa
+1015,2008,Nigeria,4.101984676,West Africa
+1016,2009,Nigeria,3.658007532,West Africa
+1017,2010,Nigeria,4.0605481249999995,West Africa
+1018,2011,Nigeria,4.904789052,West Africa
+1019,2012,Nigeria,5.029335221,West Africa
+1020,2013,Nigeria,6.388832576000001,West Africa
+1021,2014,Nigeria,5.967788538000001,West Africa
+1022,2015,Nigeria,3.4379527840000006,West Africa
+1023,2016,Nigeria,1.89493,West Africa
+1024,2017,Nigeria,2.170069073,West Africa
+1025,2018,Nigeria,2.68644522,West Africa
+1026,1992,Rwanda,0.0,East Africa
+1027,1993,Rwanda,0.0,East Africa
+1028,1994,Rwanda,0.0,East Africa
+1029,1995,Rwanda,0.0,East Africa
+1030,1996,Rwanda,0.0,East Africa
+1031,1997,Rwanda,0.0,East Africa
+1032,1998,Rwanda,0.0,East Africa
+1033,1999,Rwanda,0.0,East Africa
+1034,2000,Rwanda,0.0,East Africa
+1035,2001,Rwanda,0.0,East Africa
+1036,2002,Rwanda,0.010185014000000001,East Africa
+1037,2003,Rwanda,0.007918639,East Africa
+1038,2004,Rwanda,0.011199108000000001,East Africa
+1039,2005,Rwanda,0.010534162,East Africa
+1040,2006,Rwanda,0.011684654,East Africa
+1041,2007,Rwanda,0.016050053,East Africa
+1042,2008,Rwanda,0.020449259,East Africa
+1043,2009,Rwanda,0.034145955,East Africa
+1044,2010,Rwanda,0.030608174000000002,East Africa
+1045,2011,Rwanda,0.11965178200000001,East Africa
+1046,2012,Rwanda,0.030489991999999997,East Africa
+1047,2013,Rwanda,0.025191269000000002,East Africa
+1048,2014,Rwanda,0.021219489000000005,East Africa
+1049,2015,Rwanda,0.01428771,East Africa
+1050,2016,Rwanda,0.07467,East Africa
+1051,2017,Rwanda,0.066140569,East Africa
+1052,2018,Rwanda,0.025240682,East Africa
+1053,1992,Senegal,0.0,West Africa
+1054,1993,Senegal,0.0,West Africa
+1055,1994,Senegal,0.0,West Africa
+1056,1995,Senegal,0.0,West Africa
+1057,1996,Senegal,0.0,West Africa
+1058,1997,Senegal,0.0,West Africa
+1059,1998,Senegal,0.0,West Africa
+1060,1999,Senegal,0.0,West Africa
+1061,2000,Senegal,0.0,West Africa
+1062,2001,Senegal,0.0,West Africa
+1063,2002,Senegal,0.074665624,West Africa
+1064,2003,Senegal,0.101974763,West Africa
+1065,2004,Senegal,0.089247899,West Africa
+1066,2005,Senegal,0.15787152,West Africa
+1067,2006,Senegal,0.096897798,West Africa
+1068,2007,Senegal,0.152902301,West Africa
+1069,2008,Senegal,0.13710369800000002,West Africa
+1070,2009,Senegal,0.17594493699999997,West Africa
+1071,2010,Senegal,0.21878292600000002,West Africa
+1072,2011,Senegal,0.265150828,West Africa
+1073,2012,Senegal,0.149118519,West Africa
+1074,2013,Senegal,0.22920806600000002,West Africa
+1075,2014,Senegal,0.172583179,West Africa
+1076,2015,Senegal,0.19642841100000002,West Africa
+1077,2016,Senegal,0.18433000000000002,West Africa
+1078,2017,Senegal,0.20793405,West Africa
+1079,2018,Senegal,0.289129293,West Africa
+1080,1992,Seychelles,0.0,East Africa
+1081,1993,Seychelles,0.0,East Africa
+1082,1994,Seychelles,0.0,East Africa
+1083,1995,Seychelles,0.0,East Africa
+1084,1996,Seychelles,0.0,East Africa
+1085,1997,Seychelles,0.0,East Africa
+1086,1998,Seychelles,0.0,East Africa
+1087,1999,Seychelles,0.0,East Africa
+1088,2000,Seychelles,0.0,East Africa
+1089,2001,Seychelles,0.0,East Africa
+1090,2002,Seychelles,0.008294782000000002,East Africa
+1091,2003,Seychelles,0.007162995,East Africa
+1092,2004,Seychelles,0.01057516,East Africa
+1093,2005,Seychelles,0.021137133,East Africa
+1094,2006,Seychelles,0.009525964,East Africa
+1095,2007,Seychelles,0.009473317,East Africa
+1096,2008,Seychelles,0.024980629999999997,East Africa
+1097,2009,Seychelles,0.034093631000000006,East Africa
+1098,2010,Seychelles,0.010681706,East Africa
+1099,2011,Seychelles,0.013056828999999999,East Africa
+1100,2012,Seychelles,0.014968779000000002,East Africa
+1101,2013,Seychelles,0.012189931,East Africa
+1102,2014,Seychelles,0.012687753000000001,East Africa
+1103,2015,Seychelles,0.018542809,East Africa
+1104,2016,Seychelles,0.01243,East Africa
+1105,2017,Seychelles,0.015488847,East Africa
+1106,2018,Seychelles,0.014379285000000002,East Africa
+1107,1992,Sierra Leone,0.0,West Africa
+1108,1993,Sierra Leone,0.0,West Africa
+1109,1994,Sierra Leone,0.0,West Africa
+1110,1995,Sierra Leone,0.0,West Africa
+1111,1996,Sierra Leone,0.0,West Africa
+1112,1997,Sierra Leone,0.0,West Africa
+1113,1998,Sierra Leone,0.0,West Africa
+1114,1999,Sierra Leone,0.0,West Africa
+1115,2000,Sierra Leone,0.0,West Africa
+1116,2001,Sierra Leone,0.0,West Africa
+1117,2002,Sierra Leone,0.025459491,West Africa
+1118,2003,Sierra Leone,0.028246812,West Africa
+1119,2004,Sierra Leone,0.040433703,West Africa
+1120,2005,Sierra Leone,0.037808011,West Africa
+1121,2006,Sierra Leone,0.039246151,West Africa
+1122,2007,Sierra Leone,0.055420539,West Africa
+1123,2008,Sierra Leone,0.05936050100000001,West Africa
+1124,2009,Sierra Leone,0.042534393000000004,West Africa
+1125,2010,Sierra Leone,0.06105748300000002,West Africa
+1126,2011,Sierra Leone,0.102791973,West Africa
+1127,2012,Sierra Leone,0.100735979,West Africa
+1128,2013,Sierra Leone,0.082411287,West Africa
+1129,2014,Sierra Leone,0.08791340600000001,West Africa
+1130,2015,Sierra Leone,0.077325724,West Africa
+1131,2016,Sierra Leone,0.06318,West Africa
+1132,2017,Sierra Leone,0.07918525200000001,West Africa
+1133,2018,Sierra Leone,0.071426452,West Africa
+1134,1992,Somalia,0.0,East Africa
+1135,1993,Somalia,0.0,East Africa
+1136,1994,Somalia,0.0,East Africa
+1137,1995,Somalia,0.0,East Africa
+1138,1996,Somalia,0.0,East Africa
+1139,1997,Somalia,0.0,East Africa
+1140,1998,Somalia,0.0,East Africa
+1141,1999,Somalia,0.0,East Africa
+1142,2000,Somalia,0.0,East Africa
+1143,2001,Somalia,0.0,East Africa
+1144,2002,Somalia,0.006165509,East Africa
+1145,2003,Somalia,0.006878836,East Africa
+1146,2004,Somalia,0.009133635999999999,East Africa
+1147,2005,Somalia,0.008831503999999999,East Africa
+1148,2006,Somalia,0.019945456,East Africa
+1149,2007,Somalia,0.020693618,East Africa
+1150,2008,Somalia,0.064345393,East Africa
+1151,2009,Somalia,0.004099468,East Africa
+1152,2010,Somalia,0.0014578790000000002,East Africa
+1153,2011,Somalia,0.006081543,East Africa
+1154,2012,Somalia,0.016734553,East Africa
+1155,2013,Somalia,0.015959166,East Africa
+1156,2014,Somalia,0.035653738,East Africa
+1157,2015,Somalia,0.045026584,East Africa
+1158,2016,Somalia,0.038829999999999996,East Africa
+1159,2017,Somalia,0.07059491700000001,East Africa
+1160,2018,Somalia,0.049454787,East Africa
+1161,1992,South Africa,0.0,South Africa
+1162,1993,South Africa,0.0,South Africa
+1163,1994,South Africa,0.0,South Africa
+1164,1995,South Africa,0.0,South Africa
+1165,1996,South Africa,0.0,South Africa
+1166,1997,South Africa,0.0,South Africa
+1167,1998,South Africa,0.0,South Africa
+1168,1999,South Africa,0.0,South Africa
+1169,2000,South Africa,0.0,South Africa
+1170,2001,South Africa,0.0,South Africa
+1171,2002,South Africa,2.524551793,South Africa
+1172,2003,South Africa,2.8207708680000003,South Africa
+1173,2004,South Africa,3.1720023790000003,South Africa
+1174,2005,South Africa,3.8817293100000003,South Africa
+1175,2006,South Africa,4.4616838130000005,South Africa
+1176,2007,South Africa,5.517219922000001,South Africa
+1177,2008,South Africa,6.494696126,South Africa
+1178,2009,South Africa,4.460551713,South Africa
+1179,2010,South Africa,5.631633573,South Africa
+1180,2011,South Africa,7.271228395,South Africa
+1181,2012,South Africa,7.552736462999999,South Africa
+1182,2013,South Africa,7.293059705,South Africa
+1183,2014,South Africa,6.3681961330000005,South Africa
+1184,2015,South Africa,5.458228360000001,South Africa
+1185,2016,South Africa,4.60516,South Africa
+1186,2017,South Africa,5.020030746000001,South Africa
+1187,2018,South Africa,5.517377246000001,South Africa
+1188,1992,South Sudan,0.0,East Africa
+1189,1993,South Sudan,0.0,East Africa
+1190,1994,South Sudan,0.0,East Africa
+1191,1995,South Sudan,0.0,East Africa
+1192,1996,South Sudan,0.0,East Africa
+1193,1997,South Sudan,0.0,East Africa
+1194,1998,South Sudan,0.0,East Africa
+1195,1999,South Sudan,0.0,East Africa
+1196,2000,South Sudan,0.0,East Africa
+1197,2001,South Sudan,0.0,East Africa
+1198,2002,South Sudan,0.0,East Africa
+1199,2003,South Sudan,0.0,East Africa
+1200,2004,South Sudan,0.0,East Africa
+1201,2005,South Sudan,0.0,East Africa
+1202,2006,South Sudan,0.0,East Africa
+1203,2007,South Sudan,0.0,East Africa
+1204,2008,South Sudan,0.0,East Africa
+1205,2009,South Sudan,0.0,East Africa
+1206,2010,South Sudan,0.0,East Africa
+1207,2011,South Sudan,0.0,East Africa
+1208,2012,South Sudan,0.032540784,East Africa
+1209,2013,South Sudan,0.013417224,East Africa
+1210,2014,South Sudan,0.046614514999999995,East Africa
+1211,2015,South Sudan,0.019613532,East Africa
+1212,2016,South Sudan,0.0,East Africa
+1213,2017,South Sudan,0.013574310000000001,East Africa
+1214,2018,South Sudan,0.023460993,East Africa
+1215,1992,Sudan,0.0,North Africa
+1216,1993,Sudan,0.0,North Africa
+1217,1994,Sudan,0.0,North Africa
+1218,1995,Sudan,0.0,North Africa
+1219,1996,Sudan,0.0,North Africa
+1220,1997,Sudan,0.0,North Africa
+1221,1998,Sudan,0.0,North Africa
+1222,1999,Sudan,0.0,North Africa
+1223,2000,Sudan,0.0,North Africa
+1224,2001,Sudan,0.0,North Africa
+1225,2002,Sudan,0.0,North Africa
+1226,2003,Sudan,0.0,North Africa
+1227,2004,Sudan,0.0,North Africa
+1228,2005,Sudan,0.0,North Africa
+1229,2006,Sudan,0.0,North Africa
+1230,2007,Sudan,0.0,North Africa
+1231,2008,Sudan,0.0,North Africa
+1232,2009,Sudan,0.0,North Africa
+1233,2010,Sudan,0.0,North Africa
+1234,2011,Sudan,0.0,North Africa
+1235,2012,Sudan,0.05549129,North Africa
+1236,2013,Sudan,0.08826845,North Africa
+1237,2014,Sudan,0.077177678,North Africa
+1238,2015,Sudan,0.05951499699999999,North Africa
+1239,2016,Sudan,0.055490000000000005,North Africa
+1240,2017,Sudan,0.069654352,North Africa
+1241,2018,Sudan,0.095298955,North Africa
+1242,1992,eSwatini,0.0,None
+1243,1993,eSwatini,0.0,None
+1244,1994,eSwatini,0.0,None
+1245,1995,eSwatini,0.0,None
+1246,1996,eSwatini,0.0,None
+1247,1997,eSwatini,0.0,None
+1248,1998,eSwatini,0.0,None
+1249,1999,eSwatini,0.0,None
+1250,2000,eSwatini,0.0,None
+1251,2001,eSwatini,0.0,None
+1252,2002,eSwatini,0.011469937,None
+1253,2003,eSwatini,0.008222889,None
+1254,2004,eSwatini,0.012361239999999999,None
+1255,2005,eSwatini,0.011867648000000001,None
+1256,2006,eSwatini,0.01209143,None
+1257,2007,eSwatini,0.029002898,None
+1258,2008,eSwatini,0.012120383,None
+1259,2009,eSwatini,0.014574775000000002,None
+1260,2010,eSwatini,0.022178798,None
+1261,2011,eSwatini,0.020075203,None
+1262,2012,eSwatini,0.040226859999999996,None
+1263,2013,eSwatini,0.022674774000000005,None
+1264,2014,eSwatini,0.025717762,None
+1265,2015,eSwatini,0.028521751,None
+1266,2016,eSwatini,0.02561,None
+1267,2017,eSwatini,0.024073435,None
+1268,2018,eSwatini,0.033393894,None
+1269,1992,Togo,0.0,West Africa
+1270,1993,Togo,0.0,West Africa
+1271,1994,Togo,0.0,West Africa
+1272,1995,Togo,0.0,West Africa
+1273,1996,Togo,0.0,West Africa
+1274,1997,Togo,0.0,West Africa
+1275,1998,Togo,0.0,West Africa
+1276,1999,Togo,0.0,West Africa
+1277,2000,Togo,0.0,West Africa
+1278,2001,Togo,0.0,West Africa
+1279,2002,Togo,0.013793399000000001,West Africa
+1280,2003,Togo,0.015174281000000001,West Africa
+1281,2004,Togo,0.023659791000000003,West Africa
+1282,2005,Togo,0.027758728000000003,West Africa
+1283,2006,Togo,0.108563531,West Africa
+1284,2007,Togo,0.287594314,West Africa
+1285,2008,Togo,0.117125699,West Africa
+1286,2009,Togo,0.12488436100000001,West Africa
+1287,2010,Togo,0.157620745,West Africa
+1288,2011,Togo,0.20968903900000002,West Africa
+1289,2012,Togo,0.370550165,West Africa
+1290,2013,Togo,1.0075238450000001,West Africa
+1291,2014,Togo,1.024663768,West Africa
+1292,2015,Togo,0.31181980899999995,West Africa
+1293,2016,Togo,0.22944,West Africa
+1294,2017,Togo,0.481810854,West Africa
+1295,2018,Togo,0.642288039,West Africa
+1296,1992,Tunisia,0.0,North Africa
+1297,1993,Tunisia,0.0,North Africa
+1298,1994,Tunisia,0.0,North Africa
+1299,1995,Tunisia,0.0,North Africa
+1300,1996,Tunisia,0.0,North Africa
+1301,1997,Tunisia,0.0,North Africa
+1302,1998,Tunisia,0.0,North Africa
+1303,1999,Tunisia,0.0,North Africa
+1304,2000,Tunisia,0.0,North Africa
+1305,2001,Tunisia,0.0,North Africa
+1306,2002,Tunisia,0.19515812,North Africa
+1307,2003,Tunisia,0.170504899,North Africa
+1308,2004,Tunisia,0.258094445,North Africa
+1309,2005,Tunisia,0.2607165920000001,North Africa
+1310,2006,Tunisia,0.362817632,North Africa
+1311,2007,Tunisia,0.4030550500000001,North Africa
+1312,2008,Tunisia,0.502520071,North Africa
+1313,2009,Tunisia,0.5021108950000001,North Africa
+1314,2010,Tunisia,0.57278085,North Africa
+1315,2011,Tunisia,0.5970076829999998,North Africa
+1316,2012,Tunisia,0.614865677,North Africa
+1317,2013,Tunisia,0.870178082,North Africa
+1318,2014,Tunisia,0.831402374,North Africa
+1319,2015,Tunisia,0.602412017,North Africa
+1320,2016,Tunisia,0.53701,North Africa
+1321,2017,Tunisia,0.5435751249999999,North Africa
+1322,2018,Tunisia,0.5976072299999999,North Africa
+1323,1992,Uganda,0.0,East Africa
+1324,1993,Uganda,0.0,East Africa
+1325,1994,Uganda,0.0,East Africa
+1326,1995,Uganda,0.0,East Africa
+1327,1996,Uganda,0.0,East Africa
+1328,1997,Uganda,0.0,East Africa
+1329,1998,Uganda,0.0,East Africa
+1330,1999,Uganda,0.0,East Africa
+1331,2000,Uganda,0.0,East Africa
+1332,2001,Uganda,0.0,East Africa
+1333,2002,Uganda,0.022887170999999998,East Africa
+1334,2003,Uganda,0.042721306,East Africa
+1335,2004,Uganda,0.06374031400000002,East Africa
+1336,2005,Uganda,0.06248685600000001,East Africa
+1337,2006,Uganda,0.053201665000000016,East Africa
+1338,2007,Uganda,0.08034880299999998,East Africa
+1339,2008,Uganda,0.088525002,East Africa
+1340,2009,Uganda,0.11908188300000001,East Africa
+1341,2010,Uganda,0.093513814,East Africa
+1342,2011,Uganda,0.09403805600000001,East Africa
+1343,2012,Uganda,0.100125293,East Africa
+1344,2013,Uganda,0.12274038899999999,East Africa
+1345,2014,Uganda,0.07826234099999999,East Africa
+1346,2015,Uganda,0.088315069,East Africa
+1347,2016,Uganda,0.06906000000000001,East Africa
+1348,2017,Uganda,0.107869624,East Africa
+1349,2018,Uganda,0.087488073,East Africa
+1350,1992,United Rep. of Tanzania,0.0,None
+1351,1993,United Rep. of Tanzania,0.0,None
+1352,1994,United Rep. of Tanzania,0.0,None
+1353,1995,United Rep. of Tanzania,0.0,None
+1354,1996,United Rep. of Tanzania,0.0,None
+1355,1997,United Rep. of Tanzania,0.0,None
+1356,1998,United Rep. of Tanzania,0.0,None
+1357,1999,United Rep. of Tanzania,0.0,None
+1358,2000,United Rep. of Tanzania,0.0,None
+1359,2001,United Rep. of Tanzania,0.0,None
+1360,2002,United Rep. of Tanzania,0.06231526700000001,None
+1361,2003,United Rep. of Tanzania,0.065714495,None
+1362,2004,United Rep. of Tanzania,0.127628231,None
+1363,2005,United Rep. of Tanzania,0.096363821,None
+1364,2006,United Rep. of Tanzania,0.16066671499999996,None
+1365,2007,United Rep. of Tanzania,0.173986966,None
+1366,2008,United Rep. of Tanzania,0.169338435,None
+1367,2009,United Rep. of Tanzania,0.15812431999999998,None
+1368,2010,United Rep. of Tanzania,0.163499769,None
+1369,2011,United Rep. of Tanzania,0.260183381,None
+1370,2012,United Rep. of Tanzania,0.245389981,None
+1371,2013,United Rep. of Tanzania,0.411953494,None
+1372,2014,United Rep. of Tanzania,0.302170048,None
+1373,2015,United Rep. of Tanzania,0.172803054,None
+1374,2016,United Rep. of Tanzania,0.15757,None
+1375,2017,United Rep. of Tanzania,0.145242068,None
+1376,2018,United Rep. of Tanzania,0.331906936,None
+1377,1992,Zambia,0.0,East Africa
+1378,1993,Zambia,0.0,East Africa
+1379,1994,Zambia,0.0,East Africa
+1380,1995,Zambia,0.0,East Africa
+1381,1996,Zambia,0.0,East Africa
+1382,1997,Zambia,0.0,East Africa
+1383,1998,Zambia,0.0,East Africa
+1384,1999,Zambia,0.0,East Africa
+1385,2000,Zambia,0.0,East Africa
+1386,2001,Zambia,0.0,East Africa
+1387,2002,Zambia,0.035735439,East Africa
+1388,2003,Zambia,0.019342938,East Africa
+1389,2004,Zambia,0.026399403999999998,East Africa
+1390,2005,Zambia,0.029093155,East Africa
+1391,2006,Zambia,0.051633652000000016,East Africa
+1392,2007,Zambia,0.069394927,East Africa
+1393,2008,Zambia,0.078704324,East Africa
+1394,2009,Zambia,0.058817707999999996,East Africa
+1395,2010,Zambia,0.056415126,East Africa
+1396,2011,Zambia,0.129784635,East Africa
+1397,2012,Zambia,0.14678883000000004,East Africa
+1398,2013,Zambia,0.141148845,East Africa
+1399,2014,Zambia,0.11412191399999999,East Africa
+1400,2015,Zambia,0.084170835,East Africa
+1401,2016,Zambia,0.08163,East Africa
+1402,2017,Zambia,0.085137108,East Africa
+1403,2018,Zambia,0.195379265,East Africa
+1404,1992,Zimbabwe,0.0,East Africa
+1405,1993,Zimbabwe,0.0,East Africa
+1406,1994,Zimbabwe,0.0,East Africa
+1407,1995,Zimbabwe,0.0,East Africa
+1408,1996,Zimbabwe,0.0,East Africa
+1409,1997,Zimbabwe,0.0,East Africa
+1410,1998,Zimbabwe,0.0,East Africa
+1411,1999,Zimbabwe,0.0,East Africa
+1412,2000,Zimbabwe,0.0,East Africa
+1413,2001,Zimbabwe,0.0,East Africa
+1414,2002,Zimbabwe,0.049343296,East Africa
+1415,2003,Zimbabwe,0.04168548,East Africa
+1416,2004,Zimbabwe,0.047297131,East Africa
+1417,2005,Zimbabwe,0.044703730000000004,East Africa
+1418,2006,Zimbabwe,0.047583946999999994,East Africa
+1419,2007,Zimbabwe,0.10524126899999998,East Africa
+1420,2008,Zimbabwe,0.092883748,East Africa
+1421,2009,Zimbabwe,0.085480699,East Africa
+1422,2010,Zimbabwe,0.06756512099999999,East Africa
+1423,2011,Zimbabwe,0.061598377999999995,East Africa
+1424,2012,Zimbabwe,0.053478276000000005,East Africa
+1425,2013,Zimbabwe,0.060525718000000006,East Africa
+1426,2014,Zimbabwe,0.048699474000000006,East Africa
+1427,2015,Zimbabwe,0.037834783000000004,East Africa
+1428,2016,Zimbabwe,0.03006,East Africa
+1429,2017,Zimbabwe,0.039926035,East Africa
+1430,2018,Zimbabwe,0.033737878000000006,East Africa

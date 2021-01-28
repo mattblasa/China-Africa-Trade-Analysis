@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <AlteryxDocument yxmdVer="2020.4">
   <Nodes>
-    <Node ToolID="8">
+    <Node ToolID="1">
       <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-        <Position x="54" y="30" />
+        <Position x="66" y="42" />
       </GuiSettings>
       <Properties>
         <Configuration>
           <Passwords />
-          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\Makoto\Documents\Data Science\Python\Projects\China Africa Data\Import Export Data\China-Africa-Trade-Analysis\Exp_ZH_final.csv</File>
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\blasa\Documents\Data Science\Python\Projects\China Africa Data\Import Export Data\China-Africa-Trade-Analysis\ZH_Export_Classfied.csv</File>
           <FormatSpecificOptions>
             <HeaderRow>True</HeaderRow>
             <IgnoreErrors>False</IgnoreErrors>
@@ -24,7 +24,7 @@
         </Configuration>
         <Annotation DisplayMode="0">
           <Name />
-          <DefaultAnnotationText>Exp_ZH_final.csv</DefaultAnnotationText>
+          <DefaultAnnotationText>ZH_Export_Classfied.csv</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
         <Dependencies>
@@ -32,23 +32,24 @@
         </Dependencies>
         <MetaInfo connection="Output">
           <RecordInfo>
-            <Field name="Field_1" size="254" source="File: C:\Users\Makoto\Documents\Data Science\Python\Projects\China Africa Data\Import Export Data\China-Africa-Trade-Analysis\Exp_ZH_final.csv" type="V_String" />
-            <Field name="Year" size="254" source="File: C:\Users\Makoto\Documents\Data Science\Python\Projects\China Africa Data\Import Export Data\China-Africa-Trade-Analysis\Exp_ZH_final.csv" type="V_String" />
-            <Field name="Country" size="254" source="File: C:\Users\Makoto\Documents\Data Science\Python\Projects\China Africa Data\Import Export Data\China-Africa-Trade-Analysis\Exp_ZH_final.csv" type="V_String" />
-            <Field name="Export" size="254" source="File: C:\Users\Makoto\Documents\Data Science\Python\Projects\China Africa Data\Import Export Data\China-Africa-Trade-Analysis\Exp_ZH_final.csv" type="V_String" />
+            <Field name="Field_1" size="254" source="File: C:\Users\blasa\Documents\Data Science\Python\Projects\China Africa Data\Import Export Data\China-Africa-Trade-Analysis\ZH_Export_Classfied.csv" type="V_String" />
+            <Field name="Year" size="254" source="File: C:\Users\blasa\Documents\Data Science\Python\Projects\China Africa Data\Import Export Data\China-Africa-Trade-Analysis\ZH_Export_Classfied.csv" type="V_String" />
+            <Field name="Country" size="254" source="File: C:\Users\blasa\Documents\Data Science\Python\Projects\China Africa Data\Import Export Data\China-Africa-Trade-Analysis\ZH_Export_Classfied.csv" type="V_String" />
+            <Field name="Export" size="254" source="File: C:\Users\blasa\Documents\Data Science\Python\Projects\China Africa Data\Import Export Data\China-Africa-Trade-Analysis\ZH_Export_Classfied.csv" type="V_String" />
+            <Field name="Region" size="254" source="File: C:\Users\blasa\Documents\Data Science\Python\Projects\China Africa Data\Import Export Data\China-Africa-Trade-Analysis\ZH_Export_Classfied.csv" type="V_String" />
           </RecordInfo>
         </MetaInfo>
       </Properties>
       <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
     </Node>
-    <Node ToolID="9">
+    <Node ToolID="2">
       <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-        <Position x="54" y="150" />
+        <Position x="78" y="174" />
       </GuiSettings>
       <Properties>
         <Configuration>
           <Passwords />
-          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\Makoto\Documents\Data Science\Python\Projects\China Africa Data\Import Export Data\China-Africa-Trade-Analysis\Imp_ZH_final.csv</File>
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\blasa\Documents\Data Science\Python\Projects\China Africa Data\Import Export Data\China-Africa-Trade-Analysis\ZH_Import_Classfied.csv</File>
           <FormatSpecificOptions>
             <HeaderRow>True</HeaderRow>
             <IgnoreErrors>False</IgnoreErrors>
@@ -64,7 +65,7 @@
         </Configuration>
         <Annotation DisplayMode="0">
           <Name />
-          <DefaultAnnotationText>Imp_ZH_final.csv</DefaultAnnotationText>
+          <DefaultAnnotationText>ZH_Import_Classfied.csv</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
         <Dependencies>
@@ -72,118 +73,47 @@
         </Dependencies>
         <MetaInfo connection="Output">
           <RecordInfo>
-            <Field name="Field_1" size="254" source="File: C:\Users\Makoto\Documents\Data Science\Python\Projects\China Africa Data\Import Export Data\China-Africa-Trade-Analysis\Imp_ZH_final.csv" type="V_String" />
-            <Field name="Year" size="254" source="File: C:\Users\Makoto\Documents\Data Science\Python\Projects\China Africa Data\Import Export Data\China-Africa-Trade-Analysis\Imp_ZH_final.csv" type="V_String" />
-            <Field name="Country" size="254" source="File: C:\Users\Makoto\Documents\Data Science\Python\Projects\China Africa Data\Import Export Data\China-Africa-Trade-Analysis\Imp_ZH_final.csv" type="V_String" />
-            <Field name="Import" size="254" source="File: C:\Users\Makoto\Documents\Data Science\Python\Projects\China Africa Data\Import Export Data\China-Africa-Trade-Analysis\Imp_ZH_final.csv" type="V_String" />
+            <Field name="Field_1" size="254" source="File: C:\Users\blasa\Documents\Data Science\Python\Projects\China Africa Data\Import Export Data\China-Africa-Trade-Analysis\ZH_Import_Classfied.csv" type="V_String" />
+            <Field name="Year" size="254" source="File: C:\Users\blasa\Documents\Data Science\Python\Projects\China Africa Data\Import Export Data\China-Africa-Trade-Analysis\ZH_Import_Classfied.csv" type="V_String" />
+            <Field name="Country" size="254" source="File: C:\Users\blasa\Documents\Data Science\Python\Projects\China Africa Data\Import Export Data\China-Africa-Trade-Analysis\ZH_Import_Classfied.csv" type="V_String" />
+            <Field name="Import" size="254" source="File: C:\Users\blasa\Documents\Data Science\Python\Projects\China Africa Data\Import Export Data\China-Africa-Trade-Analysis\ZH_Import_Classfied.csv" type="V_String" />
+            <Field name="Region" size="254" source="File: C:\Users\blasa\Documents\Data Science\Python\Projects\China Africa Data\Import Export Data\China-Africa-Trade-Analysis\ZH_Import_Classfied.csv" type="V_String" />
           </RecordInfo>
         </MetaInfo>
       </Properties>
       <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
     </Node>
-    <Node ToolID="10">
-      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-        <Position x="66" y="390" />
-      </GuiSettings>
-      <Properties>
-        <Configuration>
-          <Passwords />
-          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\Makoto\Documents\Data Science\Python\Projects\China Africa Data\Import Export Data\China-Africa-Trade-Analysis\Imp_US_final​.csv</File>
-          <FormatSpecificOptions>
-            <HeaderRow>True</HeaderRow>
-            <IgnoreErrors>False</IgnoreErrors>
-            <AllowShareWrite>False</AllowShareWrite>
-            <ImportLine>1</ImportLine>
-            <FieldLen>254</FieldLen>
-            <SingleThreadRead>False</SingleThreadRead>
-            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
-            <Delimeter>,</Delimeter>
-            <QuoteRecordBreak>False</QuoteRecordBreak>
-            <CodePage>28591</CodePage>
-          </FormatSpecificOptions>
-        </Configuration>
-        <Annotation DisplayMode="0">
-          <Name />
-          <DefaultAnnotationText>Imp_US_final​.csv</DefaultAnnotationText>
-          <Left value="False" />
-        </Annotation>
-        <Dependencies>
-          <Implicit />
-        </Dependencies>
-        <MetaInfo connection="Output">
-          <RecordInfo>
-            <Field name="Field_1" size="254" source="File: C:\Users\Makoto\Documents\Data Science\Python\Projects\China Africa Data\Import Export Data\China-Africa-Trade-Analysis\Imp_US_final​.csv" type="V_String" />
-            <Field name="Year" size="254" source="File: C:\Users\Makoto\Documents\Data Science\Python\Projects\China Africa Data\Import Export Data\China-Africa-Trade-Analysis\Imp_US_final​.csv" type="V_String" />
-            <Field name="Country" size="254" source="File: C:\Users\Makoto\Documents\Data Science\Python\Projects\China Africa Data\Import Export Data\China-Africa-Trade-Analysis\Imp_US_final​.csv" type="V_String" />
-            <Field name="Import" size="254" source="File: C:\Users\Makoto\Documents\Data Science\Python\Projects\China Africa Data\Import Export Data\China-Africa-Trade-Analysis\Imp_US_final​.csv" type="V_String" />
-          </RecordInfo>
-        </MetaInfo>
-      </Properties>
-      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
-    </Node>
-    <Node ToolID="11">
-      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-        <Position x="66" y="270" />
-      </GuiSettings>
-      <Properties>
-        <Configuration>
-          <Passwords />
-          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\Makoto\Documents\Data Science\Python\Projects\China Africa Data\Import Export Data\China-Africa-Trade-Analysis\Exp_US_Final.csv</File>
-          <FormatSpecificOptions>
-            <HeaderRow>True</HeaderRow>
-            <IgnoreErrors>False</IgnoreErrors>
-            <AllowShareWrite>False</AllowShareWrite>
-            <ImportLine>1</ImportLine>
-            <FieldLen>254</FieldLen>
-            <SingleThreadRead>False</SingleThreadRead>
-            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
-            <Delimeter>,</Delimeter>
-            <QuoteRecordBreak>False</QuoteRecordBreak>
-            <CodePage>28591</CodePage>
-          </FormatSpecificOptions>
-        </Configuration>
-        <Annotation DisplayMode="0">
-          <Name />
-          <DefaultAnnotationText>Exp_US_Final.csv</DefaultAnnotationText>
-          <Left value="False" />
-        </Annotation>
-        <Dependencies>
-          <Implicit />
-        </Dependencies>
-        <MetaInfo connection="Output">
-          <RecordInfo>
-            <Field name="Field_1" size="254" source="File: C:\Users\Makoto\Documents\Data Science\Python\Projects\China Africa Data\Import Export Data\China-Africa-Trade-Analysis\Exp_US_Final.csv" type="V_String" />
-            <Field name="Year" size="254" source="File: C:\Users\Makoto\Documents\Data Science\Python\Projects\China Africa Data\Import Export Data\China-Africa-Trade-Analysis\Exp_US_Final.csv" type="V_String" />
-            <Field name="Country" size="254" source="File: C:\Users\Makoto\Documents\Data Science\Python\Projects\China Africa Data\Import Export Data\China-Africa-Trade-Analysis\Exp_US_Final.csv" type="V_String" />
-            <Field name="Export" size="254" source="File: C:\Users\Makoto\Documents\Data Science\Python\Projects\China Africa Data\Import Export Data\China-Africa-Trade-Analysis\Exp_US_Final.csv" type="V_String" />
-          </RecordInfo>
-        </MetaInfo>
-      </Properties>
-      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
-    </Node>
-    <Node ToolID="12">
+    <Node ToolID="4">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-        <Position x="174" y="318" />
+        <Position x="306" y="234" />
       </GuiSettings>
       <Properties>
         <Configuration joinByRecordPos="False">
           <JoinInfo connection="Left">
             <Field field="Year" />
             <Field field="Country" />
+            <Field field="Region" />
           </JoinInfo>
           <JoinInfo connection="Right">
             <Field field="Year" />
             <Field field="Country" />
+            <Field field="Region" />
           </JoinInfo>
           <SelectConfiguration>
             <Configuration outputConnection="Join">
-              <OrderChanged value="False" />
+              <OrderChanged value="True" />
               <CommaDecimal value="False" />
               <SelectFields>
                 <SelectField field="Left_Field_1" selected="False" input="Left_" />
+                <SelectField field="Left_Year" selected="True" input="Left_" />
+                <SelectField field="Left_Country" selected="True" input="Left_" />
+                <SelectField field="Left_Export" selected="True" input="Left_" />
+                <SelectField field="Right_Import" selected="True" input="Right_" />
+                <SelectField field="Left_Region" selected="True" input="Left_" />
                 <SelectField field="Right_Field_1" selected="False" rename="Right_Field_1" input="Right_" />
                 <SelectField field="Right_Year" selected="False" rename="Right_Year" input="Right_" />
                 <SelectField field="Right_Country" selected="False" rename="Right_Country" input="Right_" />
+                <SelectField field="Right_Region" selected="False" rename="Right_Region" input="Right_" />
                 <SelectField field="*Unknown" selected="True" />
               </SelectFields>
             </Configuration>
@@ -197,64 +127,38 @@
       </Properties>
       <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
     </Node>
-    <Node ToolID="15">
-      <GuiSettings>
-        <Position x="282" y="318" />
-      </GuiSettings>
-      <Properties>
-        <Configuration>
-          <Value name="Check Box (135)">False</Value>
-          <Value name="Check Box (136)">False</Value>
-          <Value name="List Box (11)">"Year","Country","Export","Import"</Value>
-          <Value name="Check Box (84)">True</Value>
-          <Value name="Check Box (117)">False</Value>
-          <Value name="Check Box (15)">True</Value>
-          <Value name="Check Box (109)">False</Value>
-          <Value name="Check Box (122)">False</Value>
-          <Value name="Check Box (53)">False</Value>
-          <Value name="Check Box (58)">False</Value>
-          <Value name="Check Box (70)">False</Value>
-          <Value name="Check Box (77)">False</Value>
-          <Value name="Drop Down (81)">upper</Value>
-        </Configuration>
-        <Annotation DisplayMode="0">
-          <Name />
-          <DefaultAnnotationText />
-          <Left value="False" />
-        </Annotation>
-        <Dependencies>
-          <Implicit />
-        </Dependencies>
-      </Properties>
-      <EngineSettings Macro="Cleanse.yxmc" />
-    </Node>
-    <Node ToolID="16">
+    <Node ToolID="5">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-        <Position x="162" y="102" />
+        <Position x="342" y="54" />
       </GuiSettings>
       <Properties>
         <Configuration joinByRecordPos="False">
           <JoinInfo connection="Left">
             <Field field="Year" />
             <Field field="Country" />
+            <Field field="Region" />
           </JoinInfo>
           <JoinInfo connection="Right">
             <Field field="Year" />
             <Field field="Country" />
+            <Field field="Region" />
           </JoinInfo>
           <SelectConfiguration>
             <Configuration outputConnection="Join">
-              <OrderChanged value="False" />
+              <OrderChanged value="True" />
               <CommaDecimal value="False" />
               <SelectFields>
+                <SelectField field="Left_Field_1" selected="False" input="Left_" />
                 <SelectField field="Left_Year" selected="True" input="Left_" />
                 <SelectField field="Left_Country" selected="True" input="Left_" />
                 <SelectField field="Left_Export" selected="True" input="Left_" />
+                <SelectField field="Right_Import" selected="True" input="Right_" />
+                <SelectField field="Left_Region" selected="True" input="Left_" />
                 <SelectField field="Right_Field_1" selected="False" rename="Right_Field_1" input="Right_" />
                 <SelectField field="Right_Year" selected="False" rename="Right_Year" input="Right_" />
                 <SelectField field="Right_Country" selected="False" rename="Right_Country" input="Right_" />
-                <SelectField field="Right_Import" selected="True" input="Right_" />
-                <SelectField field="*Unknown" selected="False" />
+                <SelectField field="Right_Region" selected="False" rename="Right_Region" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
               </SelectFields>
             </Configuration>
           </SelectConfiguration>
@@ -267,62 +171,23 @@
       </Properties>
       <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
     </Node>
-    <Node ToolID="17">
-      <GuiSettings>
-        <Position x="270" y="102" />
-      </GuiSettings>
-      <Properties>
-        <Configuration>
-          <Value name="Check Box (135)">False</Value>
-          <Value name="Check Box (136)">False</Value>
-          <Value name="List Box (11)">"Year","Country","Export","Import"</Value>
-          <Value name="Check Box (84)">True</Value>
-          <Value name="Check Box (117)">True</Value>
-          <Value name="Check Box (15)">True</Value>
-          <Value name="Check Box (109)">False</Value>
-          <Value name="Check Box (122)">False</Value>
-          <Value name="Check Box (53)">False</Value>
-          <Value name="Check Box (58)">False</Value>
-          <Value name="Check Box (70)">False</Value>
-          <Value name="Check Box (77)">False</Value>
-          <Value name="Drop Down (81)">upper</Value>
-        </Configuration>
-        <Annotation DisplayMode="0">
-          <Name />
-          <DefaultAnnotationText />
-          <Left value="False" />
-        </Annotation>
-        <Dependencies>
-          <Implicit />
-        </Dependencies>
-      </Properties>
-      <EngineSettings Macro="Cleanse.yxmc" />
-    </Node>
   </Nodes>
   <Connections>
     <Connection>
-      <Origin ToolID="8" Connection="Output" />
-      <Destination ToolID="16" Connection="Left" />
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="4" Connection="Left" />
     </Connection>
     <Connection>
-      <Origin ToolID="9" Connection="Output" />
-      <Destination ToolID="16" Connection="Right" />
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="4" Connection="Right" />
     </Connection>
     <Connection>
-      <Origin ToolID="10" Connection="Output" />
-      <Destination ToolID="12" Connection="Right" />
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="5" Connection="Left" />
     </Connection>
     <Connection>
-      <Origin ToolID="11" Connection="Output" />
-      <Destination ToolID="12" Connection="Left" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="12" Connection="Join" />
-      <Destination ToolID="15" Connection="Input2" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="16" Connection="Join" />
-      <Destination ToolID="17" Connection="Input2" />
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="5" Connection="Right" />
     </Connection>
   </Connections>
   <Properties>
